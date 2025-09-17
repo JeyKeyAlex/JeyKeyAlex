@@ -1,9 +1,9 @@
 ![Header](https://github.com/JeyKeyAlex/JeyKeyAlex/blob/main/github-header-banner.png)
 
 <h2 align="center"> Привет!🙌 Меня зовут Евгений</h2>
-👨‍💻 Я backend-разработчик, специализирующийся на создании и оптимизации серверных приложений на Go. Работаю с различными базами данных (PostgreSQL, Redis), сетевыми протоколами (HTTP/HTTPS, gRPC), message-брокерами (RabbitMQ), средами разработки и деплоя (Docker, Docker Compose, GitHub Actions, GitHub, GitLab).<br>
+👨‍💻 Я backend-разработчик, специализирующийся на создании и оптимизации серверных приложений на Go. Работаю с различными базами данных (PostgreSQL, Redis), сетевыми протоколами (HTTP/HTTPS, gRPC), message-брокерами (RabbitMQ), средами разработки и деплоя (Docker, Docker Compose, GitHub Actions, GitHub, GitLab).</p>
 
-📫 Как связаться:  
+</p>📫 Как связаться:  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="16" height="16" style="vertical-align:middle;"> Почта: [evgenykrasnikov01@gmail.com](mailto:evgenykrasnikov01@gmail.com)  
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="16" height="16" style="vertical-align:middle;"> Telegram: [@JK_AL_EX](https://t.me/JK_AL_EX)
 
